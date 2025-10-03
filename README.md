@@ -46,10 +46,7 @@ This project allows you to control **4 electrical appliances (like bulbs, fans, 
 6. Open Blynk app → Add 4 buttons → Link them to V1, V2, V3, V4
 7. Done ✅
 
----
 
-## 📷 Demo
-(Add screenshots of app + circuit here)
 
 ---
 

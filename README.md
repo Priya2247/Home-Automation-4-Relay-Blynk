@@ -54,4 +54,4 @@ This project allows you to control **4 electrical appliances (like bulbs, fans, 
 ---
 
 ## 👨‍💻 Authors
-💡 Project done completely by **[Your Name / Your Team Name]**  
+💡 Project done completely by **[Priyadharshini Sekar]**  
